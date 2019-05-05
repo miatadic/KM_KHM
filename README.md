@@ -1,2 +1,4 @@
-# KM_KHM
-Usporedba K-Means i K-Harmonic Means algoritama [prva zadaća iz kolegija Matematički softver (PMF-ZG)].
+# Usporedba K-Means i K-Harmonic Means algoritama
+
+**Napomena**: U Jupyter bilježnici *Usporedba-KM_KHM.ipynb* se nalazi poglavlje *Dodatak* u kojem se crtaju (interaktivni) višedimenzionalni grafovi. Ono zahtijeva import-anje paketa "plotly" kojeg Jupyter Notebook u Anaconda okruženju ne podupire bez dodatnog instaliranja. Potrebno je u terminalu pokrenuti komandu:
+conda install -c https://conda.anaconda.org/plotly plotly
